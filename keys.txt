@@ -1,0 +1,3 @@
+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
+
+newkey = "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"
