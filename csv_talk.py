@@ -1,4 +1,4 @@
-
+# %%
 from langchain import OpenAI
 from langchain.agents import create_pandas_dataframe_agent
 import pandas as pd
@@ -8,7 +8,9 @@ import os
 import streamlit as st
 
 # %%
-os.environ["OPENAI_API_KEY"] = "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"
+load_dotenv()
+openai_key = os.getenv("YOUR OPEN AI KEY")
+
 # %%
 def csv_tool(filename : str):
 
