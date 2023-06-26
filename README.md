@@ -5,4 +5,5 @@ Just upload the CSV and start asking it questions, then off you go!
 
 ##trial subheader
 
-is this working or not
+Inspired by the askcsv.com project.
+Make sure the required dependencies are installed. Check the first few cells of the jupyter notebook.
