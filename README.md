@@ -39,3 +39,8 @@ To use the OpenAI Q&A and Visualization tool, follow these steps:
 Special thanks to OpenAI for providing the powerful GPT-3.5 model and API, which enhances the question-answering capabilities of this project.
 
 Feel free to contribute, provide feedback, or reach out with any suggestions to improve the project.
+#### You will need an OpenAI key. Create a new account to get 5$ worth of free creds!
+
+
+Inspired by the askcsv.com project.
+Make sure the required dependencies are installed. Check the first few cells of the jupyter notebook.
